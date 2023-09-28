@@ -1,0 +1,14 @@
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\bin\Debug\net6.0\TextSpiel If - Else.exe
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\bin\Debug\net6.0\TextSpiel If - Else.deps.json
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\bin\Debug\net6.0\TextSpiel If - Else.runtimeconfig.json
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\bin\Debug\net6.0\TextSpiel If - Else.dll
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\bin\Debug\net6.0\TextSpiel If - Else.pdb
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\TextSpiel If - Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\TextSpiel If - Else.AssemblyInfoInputs.cache
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\TextSpiel If - Else.AssemblyInfo.cs
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\TextSpiel If - Else.csproj.CoreCompileInputs.cache
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\TextSpiel If - Else.dll
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\refint\TextSpiel If - Else.dll
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\TextSpiel If - Else.pdb
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\TextSpiel If - Else.genruntimeconfig.cache
+C:\Users\janni\OneDrive\Dokumente\Master Digital Creation\KW 39 Programmierprojekte\TextSpiel If - Else\TextSpiel If - Else\obj\Debug\net6.0\ref\TextSpiel If - Else.dll
